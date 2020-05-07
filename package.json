@@ -1,0 +1,24 @@
+{
+  "name": "burger-app",
+  "version": "1.0.0",
+  "description": "burger app created with node, express, handlebars, and mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sochikenny/burger-app.git"
+  },
+  "author": "Ikenna Nwajagu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sochikenny/burger-app/issues"
+  },
+  "homepage": "https://github.com/sochikenny/burger-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mysql": "^2.18.1"
+  }
+}
