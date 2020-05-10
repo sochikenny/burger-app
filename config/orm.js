@@ -77,6 +77,19 @@ var orm = {
     });
   },
 
+  delete: function (table, id, callback) {
+    let queryString = "DELETE FROM ?? WHERE ID = ?";
+
+    console.log(queryString);
+
+    connection.query(queryString, [table, id], function (err, result) {
+      if (err) throw err;
+
+      callback(result);
+    });
+
+  }
+
 };
 
 module.exports = orm;
