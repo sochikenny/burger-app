@@ -1,0 +1,28 @@
+.jumbotron {
+    background-image: url("https://wallpaperaccess.com/full/1312755.jpg"); 
+    background-size: cover;
+}
+
+body {
+    background-image: url("https://wallpaperaccess.com/full/1312755.jpg");
+    background-size: cover;
+}
+
+#headertext{
+    color: black;
+    font-weight: 10000;
+}
+
+#addburger{
+    color: black;
+    font-weight: 20000;
+    font-size: xx-large;
+}
+
+#burg-name{
+    color: black;
+    font-weight: 20000;
+    font-size: x-large;
+}
+
+/* https://cdn.dribbble.com/users/539024/screenshots/6142362/burger-dribble.gif */
