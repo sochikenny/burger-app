@@ -1,12 +1,15 @@
 # Burger Time!!!
 
+
 ### Description
 
 The simple app that lets users input the names of burgers they'd like to eat. This project will store your burgers in a database, and uses handlebar to display the results.
 
+
 ### Live Site
 
 View Page https://fast-citadel-13523.herokuapp.com/
+
 
 ### How to use the Application
 
@@ -16,12 +19,14 @@ View Page https://fast-citadel-13523.herokuapp.com/
 
 3. When you want to eat a Burger click 'Devour!' and the burger should move to the 'Burgers devoured' column.
 
+
 ### Technologies Used
 
 * Node.js
 * MySQL
 * Node Packages (express, mysql, express-handlebars)
 * Bootstrap
+
 
 #### Directory structure
 
